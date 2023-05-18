@@ -1,0 +1,94 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Title="SoundUP Tool"
+        Width="436.4"
+        Height="150.8"
+        Icon="Resources/tibsun.ico"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d">
+
+    <Grid Name="MainGrid">
+        <Grid.Resources>
+            <Style TargetType="{x:Type CheckBox}">
+                <Setter Property="ToolTipService.ShowOnDisabled" Value="True" />
+            </Style>
+        </Grid.Resources>
+        <TextBox x:Name="TxtB_INIPath"
+                 Width="304"
+                 Height="20"
+                 Margin="20,55,0,0"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Top"
+                 IsReadOnly="True"
+                 PreviewMouseDown="TxtB_INIPath_MouseDownClick"
+                 Text="Click to select your INI File Directory"
+                 TextAlignment="Center"
+                 TextWrapping="NoWrap"
+                 ToolTip="The path to your INI files" />
+        <TextBox x:Name="TxtB_XMLPath"
+                 Width="304"
+                 Height="20"
+                 Margin="20,30,0,0"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Top"
+                 IsReadOnly="True"
+                 PreviewMouseDown="TxtB_XmlPath_MouseDownClick"
+                 Text="Click to select your XML File"
+                 TextAlignment="Center"
+                 TextWrapping="NoWrap"
+                 ToolTip="The path to your XML file" />
+        <Button x:Name="Btn_Start"
+                Width="75"
+                Height="20"
+                Margin="329,85,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="#FFDDDDDD"
+                Click="Button_Click"
+                Content="Start"
+                ToolTip="Start the insertion process" />
+        <Button x:Name="Btn_Switch"
+                Width="75"
+                Height="20"
+                Margin="249,85,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="#FFDDDDDD"
+                Content="XMl to INI"
+                ToolTip="Switch -&gt; INI to XML" />
+        <CheckBox x:Name="ChBx_New"
+                  Margin="329,32,0,0"
+                  HorizontalAlignment="Left"
+                  VerticalAlignment="Top"
+                  Checked="CheckBox_Checked"
+                  Content="Create New"
+                  ToolTip="Check this to create a new export file. Files that don't exist will be created anyways."
+                  Unchecked="CheckBox_Unchecked" />
+        <CheckBox x:Name="ChBx_Multiline"
+                  Margin="329,57,0,0"
+                  HorizontalAlignment="Left"
+                  VerticalAlignment="Top"
+                  Checked="CheckBox_ML_Checked"
+                  Content="Multiline"
+                  IsEnabled="False"
+                  ToolTip="Check this to have key values appear on a new line for each value, in the exported XML file. Keep in mind that the file will be very long."
+                  Unchecked="CheckBox_ML_Unchecked" />
+        <Label x:Name="Label_Me"
+               Margin="20,5,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               Content="©VampireMonkey"
+               Cursor="Hand"
+               FontSize="10"
+               MouseDown="Label_MouseDown"
+               Opacity="0.5">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HighlightColorKey}}" />
+            </Label.Foreground>
+        </Label>
+    </Grid>
+</Window>

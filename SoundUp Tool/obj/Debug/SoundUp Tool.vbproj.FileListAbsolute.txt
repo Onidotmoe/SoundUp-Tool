@@ -1,0 +1,59 @@
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.exe.config
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.exe.manifest
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.application
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.exe
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.pdb
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.xml
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.vbproj.ResolveComReference.cache
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\MainWindow.baml
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\VideoPlayer.baml
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\MainWindow.g.vb
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\VideoPlayer.g.vb
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\Application.g.vb
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool_MarkupCompile.cache
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.g.resources
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp_Tool.AboutBoxForm.resources
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp_Tool.Resources.resources
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.vbproj.GenerateResource.Cache
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.TrustInfo.xml
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.exe.manifest
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.application
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.exe
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.xml
+C:\Users\Master Computer\Documents\Visual Studio 2013\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.pdb
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.vbprojResolveAssemblyReference.cache
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.vbproj.ResolveComReference.cache
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\MainWindow.baml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\GifPlayer.baml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\MainWindow.g.vb
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\GifPlayer.g.vb
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\Application.g.vb
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool_MarkupCompile.cache
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.g.resources
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp_Tool.AboutBoxForm.resources
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp_Tool.Resources.resources
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.vbproj.GenerateResource.Cache
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.exe.config
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.exe.manifest
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.application
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.exe
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.pdb
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\SoundUp Tool.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\XamlAnimatedGif.pdb
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.TrustInfo.xml
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.exe.manifest
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.application
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.exe
+C:\Users\Master Computer\Documents\Visual Studio 2015\Projects\SoundUp Tool\SoundUp Tool\obj\Debug\SoundUp Tool.pdb
